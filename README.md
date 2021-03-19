@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+
 # zee5-dl-bot and mx player movies
 heroku deploy create your own from fork and deploy connect your github
 API_HASH
